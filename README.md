@@ -120,7 +120,7 @@
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Shwetima1406&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
 ---
@@ -128,7 +128,7 @@
 ## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_GITHUB_USERNAME&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shwetima1406&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -136,7 +136,7 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/YOUR_GITHUB_USERNAME/output/snake.svg" alt="Snake animation" />
+  <img src="https://raw.githubusercontent.com/Shwetima1406/Shwetima1406/output/snake.svg" alt="Snake animation" />
 </p>
 
 ### Enable the snake animation
